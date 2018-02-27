@@ -1,0 +1,2 @@
+﻿  game.cpp
+c:\users\coolb\source\repos\consoleapplication2\game.cpp(5): fatal error C1083: Не удается открыть файл предкомпилированный заголовок: Debug\ConsoleApplication2.pch: No such file or directory,
